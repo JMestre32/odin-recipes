@@ -18,6 +18,11 @@ img{
     border-style: solid;
 }
 
+.recipe-pictures{
+    height: 300px;
+    width: auto;
+}
+
 a:hover{
     text-decoration: underline;
     color: #FFFFFF;
