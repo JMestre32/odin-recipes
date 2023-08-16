@@ -1,0 +1,31 @@
+*{
+    background-color: #6699CC;
+    color: #333333;
+    text-decoration: none;
+    /* text-align: center; */
+}
+
+.home-header{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+img{
+    border-color: #FFFFFF;
+    border-style: solid;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+.content{
+    text-align:left;
+}
+
+h2{
+    text-decoration: underline;
+}
