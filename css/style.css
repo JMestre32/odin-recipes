@@ -1,6 +1,6 @@
 *{
-    background-color: #6699CC;
-    color: #333333;
+    background-color: #F5EFE1;
+    color: #6D5942;
     text-decoration: none;
     font-family: Tahoma, sans-serif;
     /* text-align: center; */
@@ -14,7 +14,7 @@
     text-align: center;
 }
 img{
-    border-color: #FFFFFF;
+    border-color: #8B5A2B;
     border-style: solid;
 }
 
@@ -28,10 +28,24 @@ a:hover{
     color: #FFFFFF;
 }
 
+button:hover{
+    background-color: white;
+    
+}
+
 .content{
     text-align:left;
 }
 
 h2{
     text-decoration: underline;
+}
+
+
+
+.homepage-recipes{
+    display:inline-block;
+    padding: 20px;
+    border-color: #946A4C;
+    
 }
